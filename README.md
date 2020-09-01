@@ -1,3 +1,3 @@
 # Animal-Vectoring
 
-![animalvectoring logo](./animal-vectoring.png)
+![animalvectoring logo](img/Animal-Vectoring.png)
